@@ -1,7 +1,7 @@
 Hi 👋 My name is Uziel
 ======================
 
-Web developer
+web developer
 -------------
 
 I am a self taught web developer. I've been coding for 2 years. I describe myself as a full stack software engineer, I build and deploy full stack applications using the Mern stack and other technologies.
