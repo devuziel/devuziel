@@ -6,7 +6,7 @@ Web developer
 
 I am a self taught web developer. I've been coding for 2 years. I describe myself as a full stack software engineer, I build and deploy full stack applications using the Mern stack and other technologies.
 
-* 🌍  I'm based in The United States
+* 🌍  I'm based in the United States
 * ✉️  You can contact me at [abdiel.correa15@gmail.com](mailto:abdiel.correa15@gmail.com)
 * 🧠  I'm learning The Mern stack and iOS development
 * 🤝  I'm open to collaborating on consulting, contract, freelance and junior level developer jobs.
