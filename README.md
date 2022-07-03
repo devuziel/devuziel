@@ -4,7 +4,7 @@ Hi 👋 My name is Uziel
 Web developer
 -------------
 
-I am a self-thought web developer. I've been coding for about 2 years now. I also went to college for computer science for a year. I describe myself as a full stack software engineer, I build and deploy full stack applications using the Mern stack and other technologies.
+I am a self taught web developer. I've been coding for about 2 years now. I also went to college for computer science for a year. I describe myself as a full stack software engineer, I build and deploy full stack applications using the Mern stack and other technologies.
 
 * 🌍  I'm based in New Mexico
 * ✉️  You can contact me at [abdiel.correa15@gmail.com](mailto:abdiel.correa15@gmail.com)
