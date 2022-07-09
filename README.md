@@ -41,5 +41,3 @@ I am a self taught web developer. I've been coding for 2 years. I describe mysel
 </p>
 
 
-### Socials
-
