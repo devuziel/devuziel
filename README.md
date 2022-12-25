@@ -4,7 +4,7 @@ Hi 👋 My name is Uziel
 Software engineer
 -------------
 
-I am a full stack software developer, I build and deploy full stack web applications using the Mern stack and other technologies.
+I am a full stack software developer, I build and deploy full stack web applications.
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [dev.uziel@gmail.com](mailto:dev.uziel@gmail.com)
