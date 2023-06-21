@@ -1,7 +1,6 @@
 Hi 👋 My name is Uziel
 ======================
-
-Software engineer
+Web Developer 
 -------------
 
 I am a full stack software developer, I build and deploy full stack web applications.
