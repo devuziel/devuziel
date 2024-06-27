@@ -7,7 +7,7 @@ I am a full stack software developer, I build and deploy full stack web applicat
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [dev.uziel@gmail.com](mailto:dev.uziel@gmail.com)
-* 🧠  I'm learning The T3 stack.
+* 🧠  I'm learning The MERN stack.
 * 🤝  I'm open to collaborating on projects.
 
 ### Skills
